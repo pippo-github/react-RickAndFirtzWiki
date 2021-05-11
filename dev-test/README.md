@@ -47,10 +47,13 @@ Commands required for installing third-party modules:
 <br>
 
 
-``
-$ php artisan ui react
-$ npm install && npm run dev
-``
+```
+$composer install   
+$npm install            
+$composer require laravel/ui    
+$php artisan ui react   
+$npm install && npm run dev     
+```
 
 <br>
 <br>
@@ -103,8 +106,11 @@ Comandi richiesti per l'installazione dei moduli di terze parti:
 
 
 ```
-$php artisan ui react
-$npm install && npm run dev
+$composer install   
+$npm install            
+$composer require laravel/ui    
+$php artisan ui react   
+$npm install && npm run dev     
 ```
 
 <br>
