@@ -1,0 +1,115 @@
+repository:
+
+https://github.com/totallywicked/dev-test
+
+
+Rest API:
+
+https://rickandmortyapi.com/
+
+
+
+Traccia:
+
+
+Questo progetto si baserà principalmente sulla tua capacità di soddisfare i requisiti dell'azienda. Qualsiasi potenziale capacità di progettazione è un vantaggio, ma verranno prese in considerazione l'usabilità, le prestazioni e la sicurezza.
+
+introduzione
+
+Questo progetto fornisce un punto di partenza che ti permetterà di creare la tua enciclopedia basata sul web basata sul cartone animato Rick e Morty.
+
+Requisiti del progetto
+
+Per iniziare, avrai bisogno di quanto segue:
+
+PHP
+Composser
+git
+
+Sei libero di utilizzare qualsiasi compositore PHP e pacchetto di libreria front-end che desideri.
+
+Requisiti dell'attività
+
+Per completare questa sfida, DEVI creare un'enciclopedia con funzionalità minime utilizzando php in modo orientato agli oggetti e con una struttura MVC appropriata.
+
+La tua soluzione DEVE consentire all'utente di sfogliare l'elenco completo dei personaggi di Rick e Morty in modo conveniente, oltre a offrire una qualche forma di funzionalità di ricerca. La tua soluzione DEVE anche visualizzare le informazioni di base per un personaggio specifico, tra cui:
+
+Almeno un'immagine
+nome di battesimo
+Specie
+Origine
+Episodi in cui compaiono
+
+Un'API RESTful è disponibile su Rick and Morty che ti fornirà tutti i dati di cui avrai bisogno. Non è necessario creare un account o autenticarsi per utilizzare l'API, tuttavia si noti che questa API è a velocità limitata.
+
+Per iniziare, ti abbiamo fornito una struttura di cartelle scheletrica. Si consiglia di dedicare non più di due o tre ore a questo compito.
+
+Sottomissione
+Per inviare la tua soluzione, esegui il fork di questo repository e forniscici un link alla tua versione finale.
+
+Diritto d'autore
+Tutti i marchi sono di proprietà dei rispettivi proprietari.
+
+
+
+    pacchetti richiest per l'installazione dei moduli di terze parti:
+
+    ```
+    $php artisan ui react 
+    $npm install && npm run dev
+    ```
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+totallywicked/rick-and-morty
+
+This project will be based primarily on your ability to fulfill the task requirements. Any potential design skills are a bonus, but usability, performance and security will be taken into account.
+
+Introduction
+
+This project provides a starting point which will allow you to create your own web-based encyclopedia based on the cartoon Rick and Morty.
+
+Project Requirements
+
+To get started, you'll need the following:
+
+PHP
+Composer
+git
+You are free to use whatever PHP composer packages and front-end libraries that you wish.
+
+Task Requirements
+
+In order to complete this challenge, you MUST create an encyclopedia with minimal functionality using php in an object oriented manner and having corect MVC structure.
+
+Your solution MUST allow the user to browse the full list of Rick and Morty characters in a convenient manner, as well as offer some form of search functionality. Your solution MUST also display basic information for a specific character, including:
+
+At least one image
+Name
+Species
+Origin
+Episodes in which they appear
+
+A RESTful API is available at Rick and Morty which will provide you with all the data that you will need. You do not need to create an account nor authenticate in order to consume the API, however please be aware that this API is rate-limited.
+
+To get started, we've given you a skeleton folder structure. It is advised that you spend no more than two to three hours on this assignment.
+
+Submission
+To submit your solution, please fork this repository and provide us a link to your finished version.
+
+Copyright
+All trademarks as the property of their respective owners.
+
+
+
+
