@@ -92,7 +92,7 @@ Cliccando sul singolo personaggio apparira' la scheda della descrizione delle su
 
 * la sua immagine
 * Il suo nome di battesimo
-* La Specie
+* La specie
 * Origine
 * Episodi in cui compare
 
