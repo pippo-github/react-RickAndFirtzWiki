@@ -20,6 +20,6 @@ $dataAPI = $response->json();
 // var_dump($dataAPI);
 // var_dump($response->json());
 
-        return view("index")->with("valori", $dataAPI);
+        return view("index")->with("jsonValue", $dataAPI);
     }
 }

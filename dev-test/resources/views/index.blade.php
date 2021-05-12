@@ -8,10 +8,10 @@
 </h1> --}}
 
 
-@if(count($valori) > 0)
+@if(count($jsonValue) > 0)
 
-    @foreach($valori as $key => $valore)
-        {{-- {{ $valore }} <br/> --}}
+    @foreach($jsonValue as $key => $data)
+        {{-- {{ $data }} <br/> --}}
     @endforeach
    
 @endif
