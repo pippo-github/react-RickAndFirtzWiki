@@ -8,17 +8,11 @@ use Illuminate\Support\Facades\Http;
 class ApplicationController extends Controller
 {
     //
-    public function paginaIndex(){
+    public function paginaIndex() {
+        $response = Http::get('https://rickandmortyapi.com/api');
 
-
-$response = Http::get('https://rickandmortyapi.com/api');
-
-$dataAPI = array();
-
-$dataAPI = $response->json();
-
-// var_dump($dataAPI);
-// var_dump($response->json());
+        $dataAPI = array();
+        $dataAPI = $response->json();
 
         return view("index")->with("jsonValue", $dataAPI);
     }
