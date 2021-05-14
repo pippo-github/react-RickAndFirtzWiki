@@ -5,7 +5,7 @@
 Description of the project
 ==========================
 
-This is an application based on the structure offered by the PHP LAravel framework, even if it was then almost entirely developed with the React frontend framework.
+This is an application based on the structure offered by the PHP Laravel framework, even if it was then almost entirely developed with the React frontend framework.
 
 The project allows you to create a simple application that provides information relating to the protagonists of the animated series Rick and Morty
 
@@ -77,7 +77,7 @@ $php artisan serve
 Descrizione del progetto
 ===========================
 
-Questa e' un applicazione basata sulla struttura offerta dal framework PHP LAravel, anche se poi e' stata quasi interamente sviluppata con frontend framework React.
+Questa e' un applicazione basata sulla struttura offerta dal framework PHP Laravel, anche se poi e' stata quasi interamente sviluppata con frontend framework React.
 
 Il progetto permette di creare una semplice applicazione che fornisce delle informazioni inerenti ai protagonisti della serie animata Rick and Morty
 
